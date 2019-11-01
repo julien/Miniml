@@ -3,7 +3,7 @@ border.color: #000000
 border.width: 1
 padding.width: 0
 window.client.padding.width: 0
-window.handle.width: 0
+window.handle.width: 1
 
 # Menu geometry
 menu.border.color: #eeeeee
