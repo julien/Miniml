@@ -48,25 +48,3 @@ window.active.label.text.font: shadow=n
 window.active.title.bg: Solid Flat
 window.active.title.bg.color: #000
 
-# Inactive window
-window.inactive.button.disabled.bg: Solid Flat
-window.inactive.button.disabled.bg.color: #000
-window.inactive.button.disabled.image.color: #000
-window.inactive.button.hover.image.color: #fff
-window.inactive.button.pressed.bg: Solid Flat
-window.inactive.button.pressed.bg.color: #000
-window.inactive.button.toggled.image.color: #000
-window.inactive.button.unpressed.bg: Solid Flat
-window.inactive.button.unpressed.bg.color: #000
-window.inactive.button.unpressed.image.color: #ccc
-window.inactive.client.color: #000
-window.inactive.grip.bg: Solid Flat
-window.inactive.grip.bg.color: #000
-window.inactive.handle.bg: Solid Flat
-window.inactive.handle.bg.color: #000
-window.inactive.label.bg: Parentrelative
-window.inactive.label.text.color: #ccc
-window.inactive.label.text.font: shadow=n
-window.inactive.title.bg: Solid Flat
-window.inactive.title.bg.color: #000
-
